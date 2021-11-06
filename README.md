@@ -1,0 +1,1 @@
+Imagehost for Discord bot PSO2-themed hangman.
